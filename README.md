@@ -142,7 +142,7 @@ Alternatively, use the **Live Server** extension in VS Code for auto-reload duri
 
 ## Author
 
-**Akanksha Malik**
+**Easha**
 
 ---
 
