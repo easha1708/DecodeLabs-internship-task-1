@@ -58,19 +58,6 @@ No React, Bootstrap, Tailwind, jQuery, or external frontend frameworks
 were used.
 
 ------------------------------------------------------------------------
-
-## Responsive Design
-
-The project follows a mobile-first approach.
-
-  Breakpoint   Range           Adaptation
-  ------------ --------------- --------------------------------------------
-  Mobile       0--767px        Single column layout, hamburger navigation
-  Tablet       768px--1023px   Grid layouts and expanded sections
-  Desktop      1024px+         Full multi-column responsive layout
-
-------------------------------------------------------------------------
-
 ## Project Structure
 
     project-1/
