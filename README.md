@@ -120,7 +120,7 @@ You can also use VS Code Live Server.
 ## Author
 Easha
 
-Built as part of DecodeLabs Full Stack Development Track — Project 2 (2026)
+Built as part of DecodeLabs Full Stack Development Track — Project 1 (2026)
 
 ------------------------------------------------------------------------
 
