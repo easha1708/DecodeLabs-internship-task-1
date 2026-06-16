@@ -118,12 +118,17 @@ You can also use VS Code Live Server.
 ------------------------------------------------------------------------
 
 ## Author
+Easha
 
-**Easha**
+Built as part of DecodeLabs Full Stack Development Track — Project 2 (2026)
 
 ------------------------------------------------------------------------
 
-## License
 
-This project is created for educational and portfolio purposes as part
-of the DECODELABS internship program.
+
+
+
+
+
+
+
