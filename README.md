@@ -73,7 +73,7 @@ The project follows a mobile-first approach.
 
 ## Project Structure
 
-   DecodeLabs-internship-task1/
+    project-1/
     ├── index.html
     ├── style.css
     ├── script.js
